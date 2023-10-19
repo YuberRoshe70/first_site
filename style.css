@@ -146,10 +146,7 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  /* margin-bottom: 20px; */
   margin: 0 auto;
-  /* padding: 10px; */
- 
 }
 
 .video {
